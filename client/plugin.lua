@@ -17,7 +17,7 @@ local RunService = game:GetService("RunService")
 -- Constants
 local PLUGIN_NAME = "AI Studio Assistant"
 local PLUGIN_VERSION = "2.0.0"
-local SERVER_URL = "https://web-production-4471.up.railway.app" -- Replace with your actual server URL
+local SERVER_URL = "web-production-7b705.up.railway.app" -- Replace with your actual server URL
 local DEFAULT_MODEL = "mistralai/mistral-7b-instruct:free"
 local DEFAULT_PROVIDER = "openrouter"
 local ANIMATION_DURATION = 0.3
