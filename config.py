@@ -23,7 +23,7 @@ DEFAULT_CONFIG = {
     "DEFAULT_MODEL": "mistralai/mistral-7b-instruct:free",
     
     # Provider API keys
-    "OPENROUTER_API_KEY": "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",
+    "OPENROUTER_API_KEY": "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",
     "HUGGINGFACE_API_KEY": "",  # Add your Hugging Face API key here
     "OLLAMA_BASE_URL": "http://localhost:11434",  # For self-hosted Ollama
     
